@@ -1,2 +1,1 @@
-# BuildCon
-this is website that you can check your dream house and buy easily.
+Demo of BuildCon Website : https://amirmahdi.netlify.app/
